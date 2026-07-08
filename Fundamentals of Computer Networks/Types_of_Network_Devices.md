@@ -9,7 +9,7 @@ THese devices deal with raw electrical or optical signal (bits). These devices d
 - HUB generally used to connect computer in a LAN.
 - Transmission node of HUB is half duplex.
 
-image
+![hub image](/Images/HUB.png)
 
 ### Advantage
 
@@ -29,7 +29,7 @@ image
 Repeater is a network device through which we can "bootup the weak signals". When the signal travels in the network, after travelling some distance the intensity of the signal becomes low.    
 It order to regenrate the weak signal we should use repeater device.
 
-image
+![repeater](/Images/Repeater.png)
 
 ### Advantage
 
@@ -55,7 +55,7 @@ These devices work with MAC Addresses (Physical Addresses). They are smarter tha
 
 3. Switch can easily identifie that which device is connected with which port by using MAC address, that why it delivered message on particular destination machine.
 
-image
+![switch](/Images/switch.png)
 
 ### Advantage
 
@@ -74,7 +74,7 @@ image
 # Bridge
 Bridge is a network device that is used to seperate LAN into no. of section.
 
-image
+![bridge](/Images/bridge.png)
 
 It seperate both physical as well as data link layer of OSI Model.
 
@@ -100,7 +100,7 @@ It has two part Modulator & Demodultor.
 
 Modulator convert `digit signal` to `analog signal` were as Demoulator convert `analog signal` to `digital signal`.
 
-image
+![modem](/Images/modem.png)
 
 It allow us to computer to connect internet.
 
@@ -110,7 +110,7 @@ These devices work with IP Addresses (Logical Addresses) and connect different n
 ## Router
 Router is a network device which works as a traffic controller A main work of router is to choose a congestion free path through which the data packet recieve data packets to the sender, analyze and forward those packets then giving to reciver.
 
-image
+![router explain](/Images/Router_explain.png)
 
 Router use both LAN & WAN Network
 
@@ -128,9 +128,13 @@ Router use both LAN & WAN Network
 - Security issues.
 - It only work with routable protocol.
 
+
+
 ## Access Point (AP)
 
 Access point (AP) is a networking device that creates a wireless local area network (WLAN). It acts a central HUB or Bridge allowing wifi device (like laptop, phones, and IOT) to connect to a wired network using radio signals.
+
+![AP](/Images/AP.png)
 
 ### Advantage 
 
@@ -170,9 +174,9 @@ A firewall is a network security system, available as hardware of software, the 
 - **Reject** : Block with an error response.
 - **Drop** : Block silently without response.
 
-image
+![firewall](/Images/Firewall.png)
 
-firewall acting as a barrier between LAN and WAN
+Firewall acting as a barrier between LAN and WAN
 
 ## Type of Firewall
 Firewalls can be categarized based on their generation.
@@ -219,7 +223,7 @@ Firewalls can be categarized based on their generation.
 Gateway is a hardware device that is used to connect two dis-similar type of network.   
 It allow us to send & receive data through the internet even it is LAN network.
 
-image
+![gateway](/Images/Gateway.png)
 
 It operates all 7 layer of OSI Model
 
