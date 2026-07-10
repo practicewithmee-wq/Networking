@@ -1,9 +1,9 @@
 # Fundamentals of Computer Networks
 Computer networking starts with these fundamental concepts. It explains what a computer network is, its benefits, key characteristics, and the essential hardware components involved.
 
-- [Basics of Computer Networks](https://github.com/practicewithmee-wq/Networking/blob/main/Fundamentals%20of%20Computer%20Networks/Basics%20of%20Computer%20Networks.md)
-- [Types of Network Devices](https://github.com/practicewithmee-wq/Networking/blob/main/Fundamentals%20of%20Computer%20Networks/Types_of_Network_Devices.md)
-- [Types of Computer Networks](https://github.com/practicewithmee-wq/Networking/blob/main/Fundamentals%20of%20Computer%20Networks/Types%20of%20Computer%20Networks.md)
+- [Basics of Computer Networks](https://github.com/practicewithmee-wq/Networking/blob/main/1_Fundamentals%20of%20Computer%20Networks/Basics%20of%20Computer%20Networks.md)
+- [Types of Network Devices](https://github.com/practicewithmee-wq/Networking/blob/main/1_Fundamentals%20of%20Computer%20Networks/Types_of_Network_Devices.md)
+- [Types of Computer Networks](https://github.com/practicewithmee-wq/Networking/blob/main/1_Fundamentals%20of%20Computer%20Networks/Types%20of%20Computer%20Networks.md)
 
 # Network Models
 Computer networks rely on these foundational frameworks to standardize communication. It explains the layered structures of the OSI and TCP/IP models and highlights how they organize network functions for efficient data flow.
