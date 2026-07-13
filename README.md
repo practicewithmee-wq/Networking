@@ -8,7 +8,7 @@ Computer networking starts with these fundamental concepts. It explains what a c
 # Network Models
 Computer networks rely on these foundational frameworks to standardize communication. It explains the layered structures of the OSI and TCP/IP models and highlights how they organize network functions for efficient data flow.
 
-- OSI Model
+- [OSI Model](https://github.com/practicewithmee-wq/Networking/blob/main/2_Network%20Models/OSI%20Model.md)
 - TCP/IP Model
 
 # Physical Layer
