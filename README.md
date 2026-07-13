@@ -173,6 +173,7 @@ Essential network security concepts such as authentication, encryption, firewall
 - Bluetooth
 - Zigbee
 - Mobile Networks
+
 ### Modern Networking Concepts
 Cloud networking concepts are discussed, including service models, VPN-based secure access, NFV, and emerging technologies such as 5G and network slicing.
 
