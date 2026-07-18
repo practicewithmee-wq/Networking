@@ -1,12 +1,23 @@
 # TCP/IP Model
 The TCP/IP model is a networking model that explains how data is transmitted over the internet. It has 4 layers, each with a specific function.
 
+## Why was TCP/IP chosen Over the OSI Model
+TCP/IP is preferred over the OSI model because it is simpler, practical, and widely implemented in real-world networks and the Internet. Unlike OSI, which is mostly theoretical, TCP/IP is protocol-driven and focuses on actual communication needs.
+
+![vs](/Images/tcp-ip-model-vs-osi.png)
+
+- **Simpler Structure:** TCP/IP has only 4 layers, compared to 7 in OSI, making it easier to implement and understand in real systems.
+- **Protocol-Driven Design:** TCP/IP was designed based on working protocols, while OSI is mostly a theoretical framework.
+- **Flexibility and Robustness:** TCP/IP adapts well to different hardware and networks and includes error handling, routing, and congestion control.
+- **Open Standard:** TCP/IP is open, free to use, and not controlled by any single organization, which helped it gain universal acceptance.
+- **Actual Use vs Conceptual Model:** OSI is great for learning and design principles, but TCP/IP is the model actually used in real-world networking.
+
 ## Layers of TCP/IP Model
 
 ### **1. Application Layer**
 This is the top layer of the TCP/IP model, where applications like web browsers, email clients, and file-sharing tools interact with the network.
 
-![application layer](/Images/Application_Layer.png)
+![AL](/Images/AL.png)
 
 - Acts as a bridge between user applications and lower network layers.
 - Supports protocols such as HTTP, FTP, SMTP, and DNS.
@@ -22,6 +33,8 @@ This is the top layer of the TCP/IP model, where applications like web browsers,
 - POP3 / IMAP – Receiving emails
 - DNS – Converts domain names into IP addresses
 - SSH – Secure remote login
+
+
 ### Example
 
 When you open www.google.com, your browser uses:
@@ -32,7 +45,7 @@ When you open www.google.com, your browser uses:
 ### **2. Transport Layer**
 The Transport Layer provides end-to-end communication between devices. It ensures data is delivered correctly and efficiently.
 
-![transport layer](/Images/Transport-Layer-Protocols.jpg)
+![TL](/Images/TL.png)
 
 - Breaks large messages into packets and reassembles them at the destination.
 - TCP checks for errors, resends lost data, and ensures correct order.
@@ -52,10 +65,12 @@ The Transport Layer provides end-to-end communication between devices. It ensure
 - No guarantee of delivery.
 - Used for online gaming, video streaming, and voice calls.
 
+![transport layer](/Images/Transport-Layer-Protocols.jpg)
+
 ### **3. Internet Layer**
 The Internet Layer is responsible for logical addressing and routing. It determines the best path for data to travel from source to destination.
 
-![internet layer](/Images/working_network.webp)
+![il](/Images/internet_layer.png)
 
 - Assigns IP addresses to identify source and destination devices.
 - Determines the best path for data to travel across networks.
@@ -68,13 +83,18 @@ The Internet Layer is responsible for logical addressing and routing. It determi
 - ARP – Converts IP addresses to MAC addresses.
 - IGMP – Manages multicast communication.
 
+
+
 ### Example
 
 When data travels from Delhi to Mumbai, the Internet Layer chooses the best route through routers.
 
+
 ### **4. Network Access (Link) Layer**
 
 The Network Access Layer sends and receives data over the physical network.
+
+![na](/Images/network%20access.png)
 
 ### Responsibilities
 - Converts packets into frames.
@@ -92,9 +112,12 @@ The Network Access Layer sends and receives data over the physical network.
 - Switch
 - Hub
 
+![netacc](/Images/network%20access%20link.png)
+
 ### Example
 
 When your laptop sends data through Wi-Fi to a router, this layer handles the transmission.
+
 
 # Advantages and Disadvantages of TCP/IP
 
