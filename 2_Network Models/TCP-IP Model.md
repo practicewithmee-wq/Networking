@@ -142,3 +142,9 @@ When your laptop sends data through Wi-Fi to a router, this layer handles the tr
 - IP Is Connectionless – IP alone does not guarantee packet delivery or order.
 - Troubleshooting Can Be Difficult – Problems across multiple layers may be hard to identify.
 - Performance Depends on Network Quality – Slow or unstable networks affect communication speed.
+
+## Woking of TCP/IP Model
+
+The working of TCP/IP can be explained with the help of the diagram given below:
+
+![working](/Images/working_of_tcp-ip_model.png)
