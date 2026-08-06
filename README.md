@@ -15,7 +15,7 @@ Computer networks rely on these foundational frameworks to standardize communica
 Network communication rests on these physical foundations. It explains network topologies, transmission media, and data transmission modes.
 
 - [Physical Layer](https://github.com/practicewithmee-wq/Networking/blob/main/3_Physical%20Layer/1_Physical_layer.md)
-- Types of Network Topology
+- [Types of Network Topology](https://github.com/practicewithmee-wq/Networking/blob/main/3_Physical%20Layer/2_Types_of_Network_Topology.md)
 - Modes of Transmission
 - Transmission Media
 
