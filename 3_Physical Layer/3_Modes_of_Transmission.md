@@ -17,6 +17,8 @@ In simplex mode, data is transmitted in only one direction. The receiver cannot 
 
 **Example:** Television broadcasting.
 
+![simplex mode image](/Images/simplex%20mode.png)
+
 ### Advantages
 - Simple and easy to implement.
 - Low cost.
@@ -29,11 +31,13 @@ In simplex mode, data is transmitted in only one direction. The receiver cannot 
 ### 2. Half-Duplex Mode
 In half-duplex mode, data can be transmitted in both directions, but only one direction at a time. The devices take turns sending and receiving data over the same channel.
 
-**Example:** Walkie-talkie.
-
 - Two-way communication.
 - Both devices can send and receive simultaneously.
 - Provides continuous communication.
+
+**Example:** Walkie-talkie.
+
+![half-duplex mode image](/Images/half-duplex%20mode.png)
 
 ### Advantages:
 - Allows two-way communication.
@@ -47,12 +51,13 @@ In half-duplex mode, data can be transmitted in both directions, but only one di
 ## Full-Duplex Mode
 In full-duplex mode, data can be transmitted in both directions simultaneously.
 
-**Example:** Telephone or mobile phone call.
-
 - Two-way communication.
 - Both devices can send and receive simultaneously.
 - Provides continuous communication.
-Example: Telephone/mobile phone call.
+
+**Example:** Telephone or mobile phone call.
+
+![full-duplex mode image](/Images/full-duplex%20mode.png)
 
 ### Advantages:
 
