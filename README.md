@@ -16,7 +16,7 @@ Network communication rests on these physical foundations. It explains network t
 
 - [Physical Layer](https://github.com/practicewithmee-wq/Networking/blob/main/3_Physical%20Layer/1_Physical_layer.md)
 - [Types of Network Topology](https://github.com/practicewithmee-wq/Networking/blob/main/3_Physical%20Layer/2_Types_of_Network_Topology.md)
-- Modes of Transmission
+- [Modes of Transmission](https://github.com/practicewithmee-wq/Networking/blob/main/3_Physical%20Layer/3_Modes_of_Transmission.md)
 - Transmission Media
 
 # Data Link Layer
